@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: linear
+- file: code
+- file: markdown
+- file: markdown-notebooks
+- file: bernoulli
+- file: clinear

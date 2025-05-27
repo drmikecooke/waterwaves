@@ -1,0 +1,47 @@
+# Saeed Osooly
+
+# Solution by 8-term Fourier series
+
+# Height/Depth: 0.167,  25% of the maximum of H/d = 0.663 for this length:
+# Length/Depth:   7.34
+# Dimensionless Period T*sqrt(g/d):   8.08
+# Current criterion: Euler,  Dimensionless value: 0.000
+
+# Stokes-Ursell number   0.114
+
+# Integral quantities - notation from Fenton (1988)
+# (1) Quantity, (2) symbol, solution non-dimensionalised by (3) g & wavenumber, and (4) g & mean depth
+
+# Water depth                        (d)	  0.8559	  1.0000
+# Wave length                   (lambda)	  6.2832	  7.3409
+# Wave height                        (H)	  0.1427	  0.1667
+# Wave period                      (tau)	  7.4780	  8.0830
+# Wave speed                         (c)	  0.8402	  0.9082
+# Eulerian current                 (u1_)	  0.0000	  0.0000
+# Stokes current                   (u2_)	  0.0035	  0.0038
+# Mean fluid speed in frame of wave (U_)	  0.8402	  0.9082
+# Volume flux due to waves           (q)	  0.0030	  0.0038
+# Bernoulli constant                 (r)	  0.3539	  0.4135
+# Volume flux                        (Q)	  0.7162	  0.9044
+# Bernoulli constant                 (R)	  1.2098	  1.4135
+# Momentum flux                      (S)	  0.9683	  1.3218
+# Impulse                            (I)	  0.0030	  0.0038
+# Kinetic energy                     (T)	  0.0013	  0.0017
+# Potential energy                   (V)	  0.0013	  0.0017
+# Mean square of bed velocity     (ub2_)	  0.0018	  0.0021
+# Radiation stress                 (Sxx)	  0.0028	  0.0039
+# Wave power                         (F)	  0.0017	  0.0026
+
+# Dimensionless coefficients in Fourier series
+# Potential/Streamfn	Surface elevations
+# j, B[j], & E[j], j=1..N
+
+ 1	  8.3612849e-02	  7.0112231e-02
+ 2	  5.0564292e-03	  9.2683587e-03
+ 3	  2.0578366e-04	  1.1882646e-03
+ 4	 -1.1519765e-06	  1.6834053e-04
+ 5	 -8.4166551e-07	  2.6100568e-05
+ 6	 -4.1132320e-08	  4.3106460e-06
+ 7	  2.7160937e-09	  7.6525556e-07
+ 8	  4.6788695e-10	  2.6321294e-07
+

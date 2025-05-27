@@ -4,7 +4,18 @@
 format: jb-book
 root: intro
 chapters:
-- file: linear
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: src/linear
+- file: src/code
+- file: src/markdown
+- file: src/markdown-notebooks
+- file: src/bernoulli
+- file: src/compot
+- file: src/clinear
+- file: src/clinear_nb
+- file: src/cnoidal
+- file: src/momentum
+- file: src/L1
+- file: src/derivatives
+- file: src/epsilon
+- file: src/expansion
+- file: src/fenton
